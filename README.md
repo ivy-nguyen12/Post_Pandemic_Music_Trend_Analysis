@@ -56,7 +56,7 @@ Key findings:
    - 2022: 94% Upbeat, 6% Sad  
    - 2023: 92% Upbeat, 8% Sad
 
-### 📊 Statistical Results
+### Statistical Results
 
 | Test Type                      | Feature        | Years Compared | p-value  | Conclusion                    |
 |-------------------------------|----------------|----------------|----------|-------------------------------|
